@@ -1,0 +1,16 @@
+{
+  "name": "first-express",
+  "version": "1.0.0",
+  "description": "First try at express framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wakar Khan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.5"
+  }
+}
